@@ -1,10 +1,10 @@
 # Farm-Database-Management-System
 Full-stack Farm Management System built with Python Flask, MySQL, SQLAlchemy, HTML, CSS, JavaScript, and Bootstrap for farmer record management and agro-product marketplace operations.
-# 🌾 Farm Management System
+#  Farm Management System
 
 A full-stack web application developed to streamline farm management operations and provide a digital marketplace for agricultural products. The system enables farmers to manage farm records, register farming activities, list agro-products for sale, and interact with potential buyers through a centralized platform.
 
-## 📌 Project Overview
+##  Project Overview
 
 The Farm Management System is designed to assist farmers and agricultural stakeholders in managing farming-related information efficiently. The platform provides a secure and user-friendly environment for maintaining farmer records, managing agricultural products, and improving communication between farmers and buyers.
 
@@ -12,7 +12,7 @@ The project was developed as a DBMS-based mini project using Python Flask and My
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### Farmer Management
 
@@ -51,7 +51,7 @@ The project was developed as a DBMS-based mini project using Python Flask and My
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -82,7 +82,7 @@ The project was developed as a DBMS-based mini project using Python Flask and My
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 Frontend (HTML, CSS, Bootstrap, JavaScript)
 ⬇
@@ -94,7 +94,7 @@ MySQL Database
 
 ---
 
-## 📂 Database Modules
+##  Database Modules
 
 ### User Module
 
@@ -128,7 +128,7 @@ MySQL Database
 
 ---
 
-## 🔑 DBMS Concepts Implemented
+##  DBMS Concepts Implemented
 
 * Relational Database Model
 * Entity Relationship (ER) Diagram
@@ -144,7 +144,7 @@ MySQL Database
 
 ---
 
-## 📊 Project Objectives
+##  Project Objectives
 
 * Digitize farm management processes
 * Reduce manual record keeping
@@ -156,7 +156,7 @@ MySQL Database
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 Add screenshots of:
 
@@ -169,7 +169,7 @@ Add screenshots of:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Online Payment Gateway Integration
 * Real-time Crop Monitoring
@@ -182,7 +182,7 @@ Add screenshots of:
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -205,7 +205,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 🎓 Academic Information
+##  Academic Information
 
 Minor Project – Design and Implementation of a Relational Database Management System
 
@@ -216,7 +216,7 @@ Department: Computer Science and Engineering
 
 ---
 
-## ⭐ Repository Topics
+##  Repository Topics
 
 farm-management-system
 python
