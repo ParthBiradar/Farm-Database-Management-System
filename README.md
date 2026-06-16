@@ -213,7 +213,6 @@ Institution: D. Y. Patil International University, Pune
 
 Department: Computer Science and Engineering
 
-Academic Year: 2023–24
 
 ---
 
